@@ -167,7 +167,7 @@ nav {
 
 @media (max-width: 900px) {
   header {
-    padding: 0 40px;
+    padding: 0 20px;
   }
   nav {
     grid-template-columns: 2fr 8fr 2fr;
