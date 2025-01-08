@@ -785,7 +785,7 @@ body.dark .work_part1_text p span {
 
 @media (max-width: 500px) {
     .work_part1 {
-        padding: 10px;
+        padding: 15px;
     }
 
     .work_title p {
@@ -901,8 +901,14 @@ body.dark .work_part1_text p span {
 
 @media (max-width: 450px){
   .testimonial_part1{
-    padding: 20px;
+    padding: 18px;
   }
+  .testimonial{
+    padding:60px 40px;
+}
+.work {
+  padding: 96px 40px;
+}
 }
 
 /* contact part*/
@@ -1034,3 +1040,4 @@ body.dark footer{
   background-color: #111827;
   color: #D1D5DB;
 }
+
